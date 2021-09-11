@@ -1,4 +1,7 @@
-# StringTempleteMapper
+# StringTemplateMapper
+
+Class for map String value to string template.
+
 Map object attribute to string templete
 Example.
 
@@ -11,4 +14,20 @@ to
 ---------String Message-----------
 
 Member id : MB0020 has been registerd.
+
+
+
+## Built With
+
+* Spring Framework
+* Java
+* Intelij
+
+## Authors
+
+* **Chocogem** - *Initial work* - [chocogem](https://github.com/chocogem)
+
+
+
+
 
