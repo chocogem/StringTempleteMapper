@@ -3,15 +3,16 @@
 Class for map String value to string template.
 
 Map object attribute to string templete
+
 Example.
 
----------String Templete---------
+#String Templete :
 
 Member id : ${idNumber} has been registerd.
 
 to
 
----------String Message-----------
+#String Message :
 
 Member id : MB0020 has been registerd.
 
